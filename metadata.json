@@ -1,0 +1,5 @@
+{
+  "name": "NeuraCare — AI Burnout Detection Platform",
+  "description": "An AI-powered web application that detects burnout symptoms from user text input and suggests personalized wellness plans, such as digital detox schedules or guided breathing sessions.",
+  "requestFramePermissions": []
+}
